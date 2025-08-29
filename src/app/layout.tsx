@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Translations Technical",
-  description: "Technical interviews for translation workflow",
+  description: "Technical interview for translation workflow",
 };
 
 export default function RootLayout({
